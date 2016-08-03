@@ -1,4 +1,4 @@
-## Macro PEG: PEG with macro-like rules
+## Macro PEG Combinators: A Macro PEG implementation
  
 [![Gitter](https://badges.gitter.im/kmizu/macro_peg_combinators.svg)](https://gitter.im/kmizu/macro_peg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Build Status](https://travis-ci.org/kmizu/macro_peg_combinators.png?branch=master)](https://travis-ci.org/kmizu/macro_peg_combinators)
